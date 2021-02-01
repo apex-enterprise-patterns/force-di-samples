@@ -1,6 +1,10 @@
 {
   "packageDirectories": [
     {
+      "path": "force-di-trigger-demo",
+      "default": false
+    },
+    {
       "path": "force-app-1",
       "default": true
     },
@@ -10,10 +14,6 @@
     },
     {
       "path": "force-app-3",
-      "default": false
-    },
-    {
-      "path": "force-di-trigger-demo",
       "default": false
     }
   ],
