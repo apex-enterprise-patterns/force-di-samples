@@ -2,13 +2,13 @@
 
 The files in this project are various example implementations of the Force-DI Apex dependeny injection framework.
 
-**Dependencies:** Must deploy [Force-DI](https://github.com/afawcett/force-di) before deploying this library.
+**Dependencies:** Must deploy [Force-DI](https://github.com/apex-enterprise-patterns/force-di) before deploying this library.
 
-For more information on the Force-DI framework or dependency injection concepts, please refer to the [Force-DI](https://github.com/afawcett/force-di) project.
+For more information on the Force-DI framework or dependency injection concepts, please refer to the [Force-DI](https://github.com/apex-enterprise-patterns/force-di) project.
 
 Project Folders
 ---------------
-The "core" framework is found in [Force-DI](https://github.com/afawcett/force-di) project.  This includes the following:
+The "core" framework is found in [Force-DI](https://github.com/apex-enterprise-patterns/force-di) project.  This includes the following:
 
 | Folder | Description |
 | ------ | ----------- |
