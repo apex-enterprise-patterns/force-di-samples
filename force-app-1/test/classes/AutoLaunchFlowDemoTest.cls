@@ -35,7 +35,7 @@ private class AutoLaunchFlowDemoTest {
         // When
         String reversedString = AutoLaunchFlowDemo.reverseFlowString();
         // Then
-        System.assertEquals('!gnirts wolF kcoM', reversedString);
+        System.Assert.areEqual('!gnirts wolF kcoM', reversedString);
     }
 
     /**

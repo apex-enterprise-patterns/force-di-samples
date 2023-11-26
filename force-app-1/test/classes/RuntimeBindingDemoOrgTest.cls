@@ -37,7 +37,7 @@ public class RuntimeBindingDemoOrgTest {
         RuntimeBindingDemoOrg.WelcomeApp app = new RuntimeBindingDemoOrg.WelcomeApp();
         String message = app.greetings();
         // Then
-        System.assertEquals('Startup Message:Say Something Message', message);
+        System.Assert.areEqual('Startup Message:Say Something Message', message);
     }
 
     /**
