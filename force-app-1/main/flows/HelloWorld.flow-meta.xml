@@ -13,7 +13,7 @@
             </value>
         </assignmentItems>
     </assignments>
-    <interviewLabel>Hello World {!$Flow.CurrentDateTime}</interviewLabel>
+    <interviewLabel>Hello World {!&#x24;Flow.CurrentDateTime}</interviewLabel>
     <label>Hello World</label>
     <processType>AutoLaunchedFlow</processType>
     <startElementReference>Hello_World</startElementReference>

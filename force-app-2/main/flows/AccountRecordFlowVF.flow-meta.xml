@@ -27,7 +27,7 @@ In the Outputs tab, select the expected data type in the &quot;Source&quot; fiel
         </outputParameters>
     </actionCalls>
     <description>For DI the Account Record Flow in Visualforce. Due to limitations of invoking a flow and passing it input variables, this flow uses an invocable apex class to retrieve request-scoped map and pass the inputs to the actual Account Record Flow.</description>
-    <interviewLabel>Account Record Flow VF {!$Flow.CurrentDateTime}</interviewLabel>
+    <interviewLabel>Account Record Flow VF {!&#x24;Flow.CurrentDateTime}</interviewLabel>
     <label>Account Record Flow VF</label>
     <processType>Flow</processType>
     <startElementReference>Get_Record_Id</startElementReference>
