@@ -1,10 +1,6 @@
 {
-  "orgName": "johndaniel Company",
+  "orgName": "force-di-samples",
   "edition": "Developer",
   "features": [],
-  "settings": {
-    "orgPreferenceSettings": {
-      "s1DesktopEnabled": true
-    }
-  }
+  "settings": {}
 }
